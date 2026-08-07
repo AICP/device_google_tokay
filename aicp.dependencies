@@ -1,0 +1,8 @@
+[
+  {
+    "remote":      "aicp",
+    "repository":  "AICP/device_google_caimito",
+    "target_path": "device/google/caimito",
+    "branch":      "w16.2"
+  }
+]
