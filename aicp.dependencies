@@ -4,5 +4,10 @@
     "repository":  "AICP/device_google_caimito",
     "target_path": "device/google/caimito",
     "branch":      "w16.2"
+  },
+  {
+    "repository":  "AICP/device_twrp",
+    "target_path": "device/twrp/tokay",
+    "branch":      "tokay"
   }
 ]
